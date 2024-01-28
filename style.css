@@ -13,9 +13,8 @@
     
 }
 .box{
-    height: 200px;
-    width: 200px;
-    /* background-color: red;            */
+    height: 300px;
+    width: 300px;
     border: 2px solid;
 }
 .img{
@@ -32,7 +31,7 @@
 }
 .center{
     text-align: center;
-    margin: 10px 0px;
+    margin: 20px 0px;
 }
 h3{
     text-align: center;
